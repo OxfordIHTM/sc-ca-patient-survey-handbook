@@ -1,0 +1,6 @@
+---
+output-file: data-collection-paper.html
+---
+
+# Paper-based data collection {#sec-paper-data-collection}
+

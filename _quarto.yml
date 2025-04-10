@@ -1,0 +1,64 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: Seychelles Oncology Unit Patient Survey
+  subtitle: Technical Handbook
+  author:
+    - name: Dr Johanna Rapanarilala
+      affiliations:
+        - name: Oncology Unit, Ministry of Health, Seychelles
+    - name: Dr Sylvie Pool
+      affiliations:
+        - name: Ministry of Health, Seychelles and University of Oxford
+    - name: Dr Nyasha Manyeruke
+      affiliations:
+        - name: University of Oxford
+    - name: Dr Ernest Guevarra
+      affiliations:
+        - name: University of Oxford
+  date: last-modified
+  date-format: "DD MMMM YYYY"
+  chapters:
+    - index.qmd
+    - part: Design
+      chapters:
+        - 01-survey.qmd
+        - 02-questionnaire.qmd
+        - 03-data-management.qmd
+        - 04-data-analysis.qmd
+    - part: Training
+      chapters:
+        - 05-participant-selection.qmd
+        - 06-informed-consent.qmd
+        - 07-paper-data-collection.qmd
+        - 08-electronic-data-collection.qmd
+    - part: Deployment
+      chapters:
+        - 09-survey-instrument.qmd
+        - 10-data-pipeline.qmd
+        - 11-analysis-workflow.qmd
+    - references.qmd
+  cover-image: images/coat_of_arms_of_seychelles.png
+  search: true
+  repo-url: https://github.com/OxfordIHTM/sc-ca-patient-survey-handbook/
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  # google-analytics: 
+  #   tracking-id: ""
+  #   anonymize-ip: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    highlight-style: breeze
+  pdf:
+    documentclass: scrreprt
+    highlight-style: breeze
+  epub:
+    cover-image: images/coat_of_arms_of_seychelles.png
+    highlight-style: breeze

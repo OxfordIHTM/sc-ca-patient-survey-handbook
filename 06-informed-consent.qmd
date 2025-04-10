@@ -1,0 +1,6 @@
+---
+output-file: informed-consent.html
+---
+
+# Informed consent {#sec-informed-consent}
+

@@ -1,0 +1,6 @@
+---
+output-file: analysis.html
+---
+
+# Data analysis plan {#sec-data-analysis}
+

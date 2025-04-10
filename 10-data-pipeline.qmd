@@ -1,0 +1,6 @@
+---
+output-file: data-pipeline.html
+---
+
+# Data extraction, transformation, and loading pipeline {#sec-data-etl-pipeline}
+

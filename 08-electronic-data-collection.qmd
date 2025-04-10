@@ -1,0 +1,5 @@
+---
+output-file: data-collection-eletronic.html
+---
+
+# Electronic data collection {#sec-electronic-data-collection}

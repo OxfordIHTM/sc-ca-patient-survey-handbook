@@ -1,0 +1,6 @@
+---
+output-file: participant-selection.html
+---
+
+# Participant selection {#sec-participant-selection}
+

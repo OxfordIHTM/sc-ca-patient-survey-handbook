@@ -1,0 +1,3 @@
+# Preface {.unnumbered}
+
+This handbook is a guide on the design, development, and implementation of the Seychelles Oncology Unit Patient Survey. This handbook was first put together for the first iteration of the survey in 2025.

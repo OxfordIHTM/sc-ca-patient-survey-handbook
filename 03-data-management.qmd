@@ -1,0 +1,6 @@
+---
+output-file: data-management.html
+---
+
+# Data management plan {#sec-data-management}
+
