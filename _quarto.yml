@@ -51,6 +51,7 @@ book:
   #   anonymize-ip: true
 
 bibliography: references.bib
+csl: nature.csl
 
 format:
   html:
