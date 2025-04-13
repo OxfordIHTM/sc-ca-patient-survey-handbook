@@ -28,7 +28,7 @@ The key approach to questionnaire design and development for this project was to
 Following are the reference questionnaires used by the study team to develop the Seychelles Oncology Unit Patient Survey.
 
 
-### Le Baromètre cancer
+### Le Baromètre cancer {#sec-barmeter-cancer}
 
 The *Le Baromètre cancer* is a nationwide survey carried out in France every five years. Now on its fourth edition which collected data collected in 2021 from nearly 5000 individuals aged 15 to 85, the survey offers insight into how the French population perceives and responds to cancer which are then used in the for public health monitoring and research.
 
@@ -36,7 +36,7 @@ The survey is run by [Santé publique France](https://www.santepubliquefrance.fr
 
 For the purpose of the survey questionnaire development for this study, the Baromètre cancer questionnaire for 2015 was used [@noauthor_barometre_2018].
 
-### Cancer Awareness Measure Plus
+### Cancer Awareness Measure Plus {#sec-cam-plus}
 
 The *Cancer Awareness Measure Plus (CAM+)* is a recurring survey designed to collect nationally representative data on public attitudes, awareness, and behaviours in the United Kingdom regarding key areas such as early diagnosis, screening, and cancer prevention. The findings from CAM+ are utilised by [Cancer Research UK](https://www.cancerresearchuk.org/) to guide strategic decision-making, operational planning, communication efforts, and the development of behavioural interventions, as well as to inform evidence-based policy development.
 
@@ -48,7 +48,7 @@ Beginning in 2014, the survey has been continuously updated, modified, and expan
 
 For the purpose of the survey questionnaire development for this study, the 2011 version of the toolkit for the original CAM developed in 2008 [@cancer_research_uk_cancer_2011] was used along with the 2019 version of the CAM+ [@noauthor_cancer_2019].
 
-### Consumer Assessment of Healthcare Providers and Systems
+### Consumer Assessment of Healthcare Providers and Systems {#sec-cahps}
 
 The *Consumer Assessment of Healthcare Providers and Systems (CAHPS®)* is a long-term initiative by the [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/) aimed at improving understanding of patient experiences in healthcare. It supports research to develop valid and practical tools for assessing and reporting patient experiences, and for using these insights to enhance care quality. Over its more than 25-year history, CAHPS has produced standardized surveys widely used by healthcare providers and policymakers to evaluate and improve patient care across various settings.
 
@@ -56,8 +56,55 @@ Launched in 1995 to address inconsistent and limited data on patient perspective
 
 For the purpose of the survey questionnaire development for this study, the CAHPS® Cancer Care Survey for drug therapy version was used [@noauthor_cahps_2020].
   
-## The Seychelles Oncology Unit Patient Survey questionnaire
+## The Seychelles Oncology Unit Patient Survey questionnaire {#sec-survey-questionnaire}
 
-The current results of this development process is a 66-item instrument: 10 questions on demographics (section 1) to collect patient characteristics and analyse potential disparities in care;  6 clinical questions (section 1a) collecting clinical data such as date of diagnosis, staging and comorbidities, to provide context to patient experiences and outcomes;  9 questions exploring the patient experience before reaching the Oncology Unit - assessing potential barriers to access and delays in referral;  29 questions (section 3a) assessing communication and patient-centredness of care provided by the Oncology Unit;  7 questions (section 3b); assessing access to care after patient referral to the Oncology Unit, including timeliness of care;  3 questions on comfort and the overall environment of the unit (section 3c) and 2 questions (section 3d) gathering information on the overall rating of the service offered by the Oncology Unit.  Questions are a mix of Likert-scale questions, categorical, continuous and open-ended questions. The primary outcome is overall satisfactions (item 65).
+The current development process has produced a 59-item survey instrument composed of 6 sections (see @nte-survey-sections).
 
+::: {#nte-survey-sections .callout-note}
+## Survey instrument sections
+
+Section 1. Demographics (10 questions)    
+Section 2: Patient journey to diagnosis and referral to Oncology Unit (9 questions)    
+Section 3: Communication and interacting with the Oncology Team (29 questions)    
+Section 4: Scheduling and access (6 questions)    
+Section 5: Comfort and evironment (3 questions)    
+Section 6: Overall experience (2 questions)    
+:::
+
+### Demographics {#sec-demographics}
+
+The **Demographics** section collects patient charactertistics information on
+
+* age;
+* gender;
+* location of residence;
+* disability status;
+* languages spoken;
+* marital status;
+* level of education;
+* employment status;
+* type of occupation/job; and,
+* living arrangements.
+
+Demographic information allows us to perform stratified analysis of patients' reported experience of cancer care potentially detecting inequities/disparities.
+
+### Patient journey to diagnosis and referral {#sec-patient-journey}
+
+The **Patient journey to diagnosis and referral to Oncology Unit** section elicits patients' experience before reaching the Oncology Unit with a focus on assessing their knowledge, attitudes, and practices/behaviours on help-seeking. In addition, this section draws information on how the general health service/system performs in getting the patient to a confirmed diagnosis and eventual referral.
+
+### Communication and interaction {#sec-communication-interaction}
+
+The **Communication and interacting with the Oncology Team** section draws out the patients' experience of and satisfaction with their communiations and interactions with the Oncology Team once they have been referred to the unit with the aim of assesing the patient-centredness of care once referred to the Oncology Unit.
+
+### Scheduling and access {#sec-scheduling-access}
+
+The **Scheduling and access** section obtains the patients' experience of and satisfaction with the scheduling and access to the Oncology Unit both in terms of routine and urgent care. This assesses the timeliness and responsiveness of care once referred to the Oncology Unit.
+
+### Comfort and environment {#sec-comfort-environemnt}
+
+The **Comfort and environment** section asks patients of their satisfaction with the overall level of comfort and the various aspects of the physical space and amenities available at the Oncology Unit.
+
+### Overall experience {#sec-overall-expereince}
+
+The final seciton on **Overall experience** elicits the patients' satisfaction with the overall experience of the services at the Oncology Unit.
 
