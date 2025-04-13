@@ -55,11 +55,16 @@ csl: nature.csl
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     highlight-style: breeze
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
+    papersize: a4
+    toc: true
+    toc-depth: 3
     highlight-style: breeze
   epub:
     cover-image: images/coat_of_arms_of_seychelles.png
+    toc: true
+    toc-depth: 3
     highlight-style: breeze
