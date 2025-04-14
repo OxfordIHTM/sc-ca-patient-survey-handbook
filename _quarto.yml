@@ -40,6 +40,8 @@ book:
         - 10-data-pipeline.qmd
         - 11-analysis-workflow.qmd
     - references.qmd
+  appendices: 
+    - 12-mobile-device-setup.qmd
   cover-image: images/coat_of_arms_of_seychelles.png
   search: true
   repo-url: https://github.com/OxfordIHTM/sc-ca-patient-survey-handbook/
@@ -50,6 +52,10 @@ book:
   #   tracking-id: ""
   #   anonymize-ip: true
 
+crossref:
+  appendix-title: Appendix
+  appendix-delim: ":"
+
 bibliography: references.bib
 csl: nature.csl
 
@@ -58,11 +64,18 @@ format:
     theme: zephyr
     highlight-style: breeze
   pdf:
-    documentclass: scrbook
+    documentclass: scrreprt
     papersize: a4
     toc: true
     toc-depth: 3
     highlight-style: breeze
+    include-in-header: 
+      text: |
+        \usepackage{imakeidx}
+        \makeindex[intoc=true, columns=2, columnseprule=true]
+    include-after-body: 
+      text: |
+        \printindex
   epub:
     cover-image: images/coat_of_arms_of_seychelles.png
     toc: true

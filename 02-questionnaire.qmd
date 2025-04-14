@@ -4,10 +4,11 @@ output-file: questionnaire.html
 
 # Questionnaire design and development {#sec-questionnaire-development}
 
-The key approach to questionnaire design and development for this project was to build on existing tried and tested oncology patient satisfaction and/or experience survey instruments utilised in other countries and in various contexts to ensure content validity (see @sec-reference-questionnaire for a description of these questionnaires). Questions from these existing instruments were either extracted verbatim or were modified to align with the local context. Localisations included adjustments to terminology to match what is used locally and the addition of response options relevant to the Seychelles local setting and specific cultural context of the population. The questionnaire design was further guided by the six domains of healthcare quality (see @nte-iom-domains) put forth by the Institute of Medicine or IOM  [-@institute_of_medicine_us_committee_on_quality_of_health_care_in_america_crossing_2001].
+The key approach to questionnaire design and development for this project was to build on existing tried and tested oncology patient satisfaction and/or experience survey instruments utilised in other countries and in various contexts to ensure content validity (see @sec-reference-questionnaire for a description of these questionnaires). Questions from these existing instruments were either extracted verbatim or were modified to align with the local context. Localisations included adjustments to terminology to match what is used locally and the addition of response options relevant to the Seychelles local setting and specific cultural context of the population. The questionnaire design was further guided by the six domains of healthcare quality (see @nte-iom-domains) put forth by the Institute of Medicine\index{Institute of Medicine} or IOM\index{IOM}  [-@institute_of_medicine_us_committee_on_quality_of_health_care_in_america_crossing_2001].
 
 
 ::: {#nte-iom-domains .callout-note}
+
 ## IOM six domains of healthcare quality
 
 **Safe**: Avoiding harm to patients from the care that is intended to help them.
@@ -21,54 +22,58 @@ The key approach to questionnaire design and development for this project was to
 **Efficient**: Avoiding waste, including waste of equipment, supplies, ideas, and energy.
 
 **Equitable**: Providing care that does not vary in quality because of personal characteristics such as geographic location and socioeconomic status.
+
 :::
+
 
 ## Reference questionnaires {#sec-reference-questionnaire}
 
 Following are the reference questionnaires used by the study team to develop the Seychelles Oncology Unit Patient Survey.
 
-
 ### Le Baromètre cancer {#sec-barmeter-cancer}
 
-The *Le Baromètre cancer* is a nationwide survey carried out in France every five years. Now on its fourth edition which collected data collected in 2021 from nearly 5000 individuals aged 15 to 85, the survey offers insight into how the French population perceives and responds to cancer which are then used in the for public health monitoring and research.
+The *Le Baromètre cancer*\index{Le Baromètre cancer} is a nationwide survey carried out in France every five years. Now on its fourth edition which collected data collected in 2021 from nearly 5000 individuals aged 15 to 85, the survey offers insight into how the French population perceives and responds to cancer which are then used in the for public health monitoring and research.
 
-The survey is run by [Santé publique France](https://www.santepubliquefrance.fr/) in collaboration with the [Institut National du Cancer](https://www.cancer.fr/). Given the survey's every five years frequency, it is able to provide data that can be analysed to track trends over time in how people perceive cancer, their awareness of prevention methods, and how they engage with screening programs.
+The survey is run by [Santé publique France](https://www.santepubliquefrance.fr/)\index{Santé publique France} in collaboration with the [Institut National du Cancer](https://www.cancer.fr/)\index{Institut National du Cancer}. Given the survey's every five years frequency, it is able to provide data that can be analysed to track trends over time in how people perceive cancer, their awareness of prevention methods, and how they engage with screening programs.
 
 For the purpose of the survey questionnaire development for this study, the Baromètre cancer questionnaire for 2015 was used [@noauthor_barometre_2018].
 
 ### Cancer Awareness Measure Plus {#sec-cam-plus}
 
-The *Cancer Awareness Measure Plus (CAM+)* is a recurring survey designed to collect nationally representative data on public attitudes, awareness, and behaviours in the United Kingdom regarding key areas such as early diagnosis, screening, and cancer prevention. The findings from CAM+ are utilised by [Cancer Research UK](https://www.cancerresearchuk.org/) to guide strategic decision-making, operational planning, communication efforts, and the development of behavioural interventions, as well as to inform evidence-based policy development.
+The *Cancer Awareness Measure Plus (CAM+)*\index{Cancer Awareness Measure Plus} is a recurring survey designed to collect nationally representative data on public attitudes, awareness, and behaviours in the United Kingdom regarding key areas such as early diagnosis, screening, and cancer prevention. The findings from CAM+ are utilised by [Cancer Research UK](https://www.cancerresearchuk.org/)\index{Cancer Research UK} to guide strategic decision-making, operational planning, communication efforts, and the development of behavioural interventions, as well as to inform evidence-based policy development.
 
-The original *Cancer Awareness Measure (CAM)* survey was developed and validated between 2007 and 2008 through a collaboration between Cancer Research UK, University College London, King’s College London, and the University of Oxford, in response to the absence of a validated tool for assessing public awareness of cancer. In addition to the general CAM, a series of cancer-specific CAMs were also developed. These instruments were initially designed to be administered via face-to-face or telephone interviews.
+The original *Cancer Awareness Measure (CAM)*\index{Cancer Awareness Measure} survey was developed and validated between 2007 and 2008 through a collaboration between Cancer Research UK, [University College London](https://www.ucl.ac.uk/), [King’s College London](https://www.kcl.ac.uk/), and the [University of Oxford](https://www.ox.ac.uk/), in response to the absence of a validated tool for assessing public awareness of cancer. In addition to the general CAM, a series of cancer-specific CAMs were also developed. These instruments were initially designed to be administered via face-to-face or telephone interviews.
 
 Since 2008, Cancer Research UK has routinely collected CAM and CAM+ data. While the frequency of data collection has varied over time, biannual data collection was established in 2020, with a transition to annual data collection planned for the future.
 
-Beginning in 2014, the survey has been continuously updated, modified, and expanded to reflect emerging evidence and changes in the external environment. These enhanced iterations are referred to as the *Cancer Awareness Measure Plus (CAM+)*, highlighting the inclusion of additional questions and substantial revisions to the original instrument. In 2019, the survey was further adapted to facilitate online data collection.
+Beginning in 2014, the survey has been continuously updated, modified, and expanded to reflect emerging evidence and changes in the external environment. These enhanced iterations are referred to as the *Cancer Awareness Measure Plus (CAM+)*\index{Cancer Awareness Measure}, highlighting the inclusion of additional questions and substantial revisions to the original instrument. In 2019, the survey was further adapted to facilitate online data collection.
 
 For the purpose of the survey questionnaire development for this study, the 2011 version of the toolkit for the original CAM developed in 2008 [@cancer_research_uk_cancer_2011] was used along with the 2019 version of the CAM+ [@noauthor_cancer_2019].
 
 ### Consumer Assessment of Healthcare Providers and Systems {#sec-cahps}
 
-The *Consumer Assessment of Healthcare Providers and Systems (CAHPS®)* is a long-term initiative by the [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/) aimed at improving understanding of patient experiences in healthcare. It supports research to develop valid and practical tools for assessing and reporting patient experiences, and for using these insights to enhance care quality. Over its more than 25-year history, CAHPS has produced standardized surveys widely used by healthcare providers and policymakers to evaluate and improve patient care across various settings.
+The *Consumer Assessment of Healthcare Providers and Systems (CAHPS®)*\index{Consumer Assessment of Healthcare Providers and Systems} is a long-term initiative by the [Agency for Healthcare Research and Quality (AHRQ)](https://www.ahrq.gov/)\index{Agency for Healthcare Research and Quality} aimed at improving understanding of patient experiences in healthcare. It supports research to develop valid and practical tools for assessing and reporting patient experiences, and for using these insights to enhance care quality. Over its more than 25-year history, CAHPS has produced standardized surveys widely used by healthcare providers and policymakers to evaluate and improve patient care across various settings.
 
 Launched in 1995 to address inconsistent and limited data on patient perspectives, CAHPS initially focused on health plans. It has since expanded to cover a broader range of healthcare services. Now in its sixth phase (CAHPS VI, as of 2022), the program continues to evolve while maintaining its voluntary, research-focused nature.
 
 For the purpose of the survey questionnaire development for this study, the CAHPS® Cancer Care Survey for drug therapy version was used [@noauthor_cahps_2020].
-  
+
+
 ## The Seychelles Oncology Unit Patient Survey questionnaire {#sec-survey-questionnaire}
 
 The current development process has produced a 59-item survey instrument composed of 6 sections (see @nte-survey-sections).
 
 ::: {#nte-survey-sections .callout-note}
+
 ## Survey instrument sections
 
-Section 1. Demographics (10 questions)    
-Section 2: Patient journey to diagnosis and referral to Oncology Unit (9 questions)    
-Section 3: Communication and interacting with the Oncology Team (29 questions)    
-Section 4: Scheduling and access (6 questions)    
-Section 5: Comfort and evironment (3 questions)    
-Section 6: Overall experience (2 questions)    
+**Section 1**: Demographics (10 questions)    
+**Section 2**: Patient journey to diagnosis and referral to Oncology Unit (9 questions)    
+**Section 3**: Communication and interacting with the Oncology Team (29 questions)    
+**Section 4**: Scheduling and access (6 questions)    
+**Section 5**: Comfort and evironment (3 questions)    
+**Section 6**: Overall experience (2 questions)    
+
 :::
 
 ### Demographics {#sec-demographics}
@@ -107,4 +112,4 @@ The **Comfort and environment** section asks patients of their satisfaction with
 ### Overall experience {#sec-overall-expereince}
 
 The final seciton on **Overall experience** elicits the patients' satisfaction with the overall experience of the services at the Oncology Unit.
-
+ 
