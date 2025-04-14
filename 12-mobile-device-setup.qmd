@@ -1,5 +1,5 @@
 ---
-output-title: mobile-device-setup.html
+output-file: mobile-device-setup.html
 ---
 
 # Mobile device setup {#sec-mobile-device-setup}
