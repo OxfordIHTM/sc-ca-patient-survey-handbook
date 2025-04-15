@@ -4,3 +4,75 @@ output-file: survey.html
 
 # Survey design {#sec-survey-design}
 
+The **Seychelles Oncology Unit Patient Survey** is a component process within a wider/broader research project that aims to improve the quality of care provided by the Oncology Unit\index{Oncology Unit} through a landscape analysis\index{landscape analysis} of existing standards, key performance indicators (KPIs)\index{key performance indicators} and patient experiences.
+
+In this section, we describe the background/rationale for the overall research project, its objectives, and the research questions it is addressing. We then outline which objective/s and research question/s this patient survey addresses and characterise how the survey design allows us to gain insight relevant to the objectives and research questions of the overall research project.
+
+## The research project {#sec-research-project}
+
+The research project is entitled *Establishing Quality Indicators for Cancer Care: A Readiness Assessment of the Oncology Unit, Ministry of Health (MoH) Seychelles*
+
+### Background and rationale {#sec-background-rationale}
+
+Cancer\index{cancer} remains one of the leading causes of death in Seychelles, accounting for more than 17% of the country's annual mortality [@public_health_authority_seychelles_2023]. This is a pattern consistently observed over the past decade [@public_health_authority_seychelles_2023]. 
+
+According to the latest figures (2023) from the Seychelles National Cancer Registry\index{Seychelles National Cancer Registry} (SNCR), 152 deaths were attributed to cancer (83 males and 69 females), with a total of 307 new cases. This marked an increase of over 50% since 2009 [@public_health_authority_seychelles_2023] (non-age standardised). Nearly half of these cases are diagnosed at advanced stages (III and IV) [@iaea_impact_2019].
+
+These trends are projected to increase substantially in this post-COVID-19\index{COVID-19} period, due to disruptions in cancer-related services and changes in healthcare utilisation during the pandemic, coupled with rising and continued population exposure to known modifiable risk factors.  
+
+Even when adjusting for demographic shifts over time, cancer incidence trends remain significant in terms of an increase in absolute numbers of individuals needing systemic drug therapy (i.e. medication-based cancer treatment), year on year. 
+
+As the sole provider of systemic drug therapy nationally, the Oncology Unit\index{Oncology Unit}, which functions as a Chemotherapy Day Unit\index{Chemotherapy Day Unit}, is facing significant capacity challenges in the face of this surge in demand. This raises critical questions regarding potential compromises to standards of care, and their subsequent impact on treatment outcomes, survival and quality of life of patients being treated at the Oncology Unit. Addressing these questions requires an understanding of the status quo on the quality of care being delivered at the unit, including an examination of existing structures or frameworks for quality measurement.  
+
+In line with the MoH's agenda, as articulated in its National Health Strategic Plan (NHSP 2022-2026)\index{National Health Strategic Plan} [@ministry_of_health_seychelles_national_2022], to not only continue expanding access but also improve the quality of care provided, a Strategic Framework for Quality Management (SFQM 2024-2029)\index{Strategic Framework for Quality Management} was developed, in partnership with World Health Organization (WHO)\index{World Health Organization}. This framework aims to establish structures and mechanisms to facilitate the operationalisation, monitoring, and evaluation of quality improvement initiatives within the health sector [@qoc_technical_working_group_hca_ministry_of_health_seychelles_strategic_2023].
+
+Key gaps identified during the development of the SFQM 2024-2029, include the lack of clearly defined standards, guidelines and quality indicators across clinical departments and units, as well as the notable absence of user/patient input in quality improvement initiatives [@qoc_technical_working_group_hca_ministry_of_health_seychelles_strategic_2023].
+
+These gaps were flagged as priorities within the SFQM 2024-2029 requiring urgent attention and echoed recommendations from oncology-specific situational analyses (such as the 2019 IAEA imPACT review\index{IAEA imPACT review}), that emphasise the need for standards and the strengthening of patient-centred care approaches across all levels of cancer care service delivery [@iaea_impact_2019, @qoc_technical_working_group_hca_ministry_of_health_seychelles_strategic_2023].
+
+Although the Oncology Unit follows international treatment protocols, namely that of the National Comprehensive Cancer Network (NCCN)\index{National Comprehensive Cancer Network} and the European Society of Medical Oncology (ESMO)\index{European Society of Medical Oncology} and collects data on various metrics; the degree to which standards and quality indicators are consistently set, monitored and actioned, is undetermined. 
+
+Moreover, attempts to address concerns around patient-centred care through a planned patient experience/satisfaction survey have been stymied by disruptions to the unit’s operations during the pandemic in 2019/2020. 
+
+In response to these challenges, this project seeks to assess existing quality of care structures or frameworks within the Oncology Unit to serve as a crucial first step in understanding the gaps in quality measurement and improvement processes. Findings from this research will inform next steps - i.e. the development and implementation of actionable standards and quality indicators or KPIs that are both relevant and feasible within the resource constraints of Seychelles’ health system.  
+
+This project also places a renewed focus on capturing patient views and experiences to address patient-centred care issues and integrate user feedback into future quality improvement initiatives within the Oncology Unit.  
+
+### Research objectives and questions {#sec-research-objectives}
+
+The overall aim is of this research project is to improve the quality of care provided by the Oncology Unit through a landscape analysis of existing standards, KPIs and patient experiences. This will facilitate data-driven improvements that align with international best practices and the specific needs of the Seychelles population.   
+
+#### Specific objectives {#sec-specific-objectives}
+
+Specific Objectives include:  
+
+1. To identify and describe gaps in existing standards and KPIs used in the Oncology Unit. 
+
+2. To compare current practices to international standards and best practices.  
+
+3. To investigate factors that contribute to positive or negative patient-reported experiences with services offered by the Oncology Unit. 
+
+4. To assess the overall satisfaction of patients receiving care in the Oncology Unit.  
+
+5. To determine if there are any correlations between objective and subjective measures of quality.   
+
+#### Research questions {#sec-research-questions}
+
+These objectives are addressed by the following research questions:  
+
+**Research question 1:** What standards and specific, measurable KPIs exist in the Oncology unit to monitor and improve quality of care?  
+
+**Research question 2:** To what extent are globally recognised standards and KPIs currently being implemented, measured, or adapted in the Oncology Unit and how do current practices compare to international benchmarks and best practices?  
+
+**Research question 3:** What factors contribute to positive or negative patient-reported experiences within the Oncology Unit? 
+
+### Scope {#sec-scope}
+
+This project will focus on evaluating quality of care structures within the Oncology Unit only. Standards and KPIs will be reviewed within the six domains of quality as defined by the Institute of Medicine (IOM)\index{Institute of Medicine} [@institute_of_medicine_us_committee_on_quality_of_health_care_in_america_crossing_2001] and adopted by MoH (through the SFQM 2024-2029 framework) around: *safety*, *effectiveness*, *patient-centredness*, *timeliness*, *efficiency*, and *equity*. 
+
+This project will not directly address cancer-site specific KPIs but rather the overall performance of the oncology department as a unit. The scope encompasses adult oncology services, with paediatric oncology excluded from this assessment.  
+
+This research is intended to generate evidence to support the Oncology team, relevant stakeholders and internal committees (e.g. committee leading on the NCCP development) in their decision-making processes in regard to setting appropriate standards, defining KPIs and designing effective quality improvement initiatives in Oncology. It is not within the scope of this project to make definitive recommendations or decisions regarding specific KPIs and standards, and by extension the allocation of resources or prioritisation of strategies to establish these standards and KPIs. Those decisions require a holistic view of cancer services in Seychelles and must be considered within the context of overall non-communicable diseases (NCD)\index{non-communicable diseases} control strategies and resource allocation, which are the purview of higher-level committees and decision-making bodies within MoH.
+
+## The patient survey {#sec-patient-survey}
+
