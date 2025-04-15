@@ -42,6 +42,7 @@ book:
     - references.qmd
   appendices: 
     - 12-mobile-device-setup.qmd
+    - 13-odk-setup.qmd
   cover-image: images/coat_of_arms_of_seychelles.png
   search: true
   repo-url: https://github.com/OxfordIHTM/sc-ca-patient-survey-handbook/

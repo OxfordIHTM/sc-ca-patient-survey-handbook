@@ -1,0 +1,145 @@
+---
+output-file: odk-setup.html
+---
+
+## Setting up ODK Collect for data collection {#sec-setup-odk-collect}
+
+This section is for all five Samsung SM-T230 devices provided after they have all been setup with a Google account and ODK Collect v1.25 installed.
+
+### Open ODK Collect {#sec-open-odk-collect}
+
+Go to the ODK Collect application and then tap on it (@fig-odk-collect-app). The ODK Collect app menu will then be seen (@fig-odk-collect-menu).
+
+::: {#fig-odk-collect layout-ncol=2 layout-valign="bottom"}
+
+![ODK Collect app](images/odk_collect_01.png){#fig-odk-collect-app fig-alt="The ODK Collect app"}
+
+![ODK Collect menu](images/odk_collect_02.png){#fig-odk-collect-menu fig-alt="The ODK Collect app menu"}
+
+ODK Collect app
+
+:::
+
+\newpage
+
+### Reset ODK Collect {#sec-reset-odk-collect}
+
+1. Go to *Admin Settings* of ODK Collect (@fig-odk-collect-admin-settings). 
+
+2. Select *Reset application...* (@fig-odk-collect-reset-application) option. 
+
+3. Tick the boxes for (@fig-odk-collect-reset-options):
+
+* All settings (internal settings, saved settings)
+
+* Saved forms (instances folder, instances database)
+
+* Blank forms (forms folder, forms database, itemsets database)
+
+* Form load cache (.cache folder)
+
+::: {#fig-odk-collect-reset layout-ncol=3 layout-valign="bottom"}
+
+![Admin settings](images/odk_collect_03.png){#fig-odk-collect-admin-settings fig-alt="The ODK Collect Admin Settings"}
+
+![Reset application](images/odk_collect_04.png){#fig-odk-collect-reset-application fig-alt="The ODK Collect reset application option"}
+
+![Select reset options](images/odk_collect_05.png){#fig-odk-collect-reset-options fig-alt="The ODK Collect reset options"}
+
+ODK Collect reset application steps
+
+:::
+
+\newpage
+
+### Connect ODK Collect to the KoboToolbox server {#sec-connect-odk-collect-kobotoolbox}
+
+1. Go to *General Settings* of ODK Collect (@fig-odk-collect-general-settings). 
+
+2. Select *Server* option (@fig-odk-collect-server-settings).
+
+::: {#fig-odk-collect-general layout-ncol=3 layout-valign="bottom"}
+
+![General settings](images/odk_collect_06.png){#fig-odk-collect-general-settings fig-alt="The ODK Collect General Settings"}
+
+![Server settings](images/odk_collect_07.png){#fig-odk-collect-server-settings fig-alt="The ODK Collect server settings"}
+
+![Server settings options](images/odk_collect_08.png){#fig-odk-collect-server-settings-options fig-alt="The ODK Collect server settings options"}
+
+ODK Collect server settings menu
+
+:::
+
+\newpage
+
+3. Enter URL for the KoboToolbox server (@fig-odk-collect-server-url). This should be set to `https://kc-eu.kobotoolbox.org`.
+
+4. Enter username for the KoboToolbox server account (@fig-odk-collect-server-username). This should be set to `ihtmbot`.
+
+5. Enter password for the KoboToolbox server account (@fig-odk-collect-server-password). Password will be provided separately on an email.
+
+::: {#fig-odk-collect-server layout-ncol=3 layout-valign="bottom"}
+
+![URL](images/odk_collect_09.png){#fig-odk-collect-server-url fig-alt="The ODK Collect server URL"}
+
+![Username](images/odk_collect_10.png){#fig-odk-collect-server-username fig-alt="The ODK Collect server username"}
+
+![Password](images/odk_collect_11.png){#fig-odk-collect-server-password fig-alt="The ODK Collect server password"}
+
+ODK Collect server settings
+
+:::
+
+\newpage
+
+The ODK Collect server settings has now been set/updated (@fig-odk-collect-server-update)
+
+![Server settings set/updated](images/odk_collect_12.png){#fig-odk-collect-server-update fig-alt="The ODK Collect server settings set/updated" fig-align="center" width="50%"}
+
+### Get blank forms {#sec-get-blank-odk-collect}
+
+1. In the main ODK Collect menu, select *Get Blank Form* (@fig-odk-collect-get-blank). ODK Collect will connect to the KoboToolbox server (@fig-odk-collect-get-blank-info).
+
+::: {#fig-odk-collect-retrieve-menu layout-ncol=2 layout-valign="bottom"}
+
+![Get blank form option](images/odk_collect_13.png){#fig-odk-collect-get-blank fig-alt="Selecting get blank form option"}
+
+![Connect to server for blank form information](images/odk_collect_14.png){#fig-odk-collect-get-blank-info fig-alt="Retrieving information on blank forms from server"}
+
+ODK Collect retrieving selected blank forms
+
+:::
+
+\newpage
+
+2. Select the blank forms to retrieve and tap *Get Selected* (@fig-odk-collect-select-retrieve). ODK Collect will retrieve the selected forms from the server ([@fig-odk-collect-retrieve-forms, @fig-odk-collect-retrieved-forms]).
+
+::: {#fig-odk-collect-retrieve layout-ncol=3 layout-valign="bottom"}
+
+![Select blank forms](images/odk_collect_15.png){#fig-odk-collect-select-retrieve fig-alt="Selection of blank forms to retrieve"}
+
+![Retrieving from server](images/odk_collect_16.png){#fig-odk-collect-retrieve-forms fig-alt="Retrieving selected forms from server"}
+
+![Retrieved from server](images/odk_collect_17.png){#fig-odk-collect-retrieved-forms fig-alt="Selected forms retrieved from server"}
+
+ODK Collect retrieving selected blank forms
+
+:::
+
+\newpage
+
+### Filling blank forms {#sec-fill-blank-odk-collect}
+
+1. In the main ODK Collect menu, select *Fill Blank Form* (@fig-odk-collect-fill-blank). 
+
+2. Select blank form to fill (@fig-odk-collect-select-fill-blank).
+
+::: {#fig-odk-collect-fill-blank layout-ncol=2 layout-valign="bottom"}
+
+![Fill blank form option](images/odk_collect_18.png){#fig-odk-collect-fill-blank fig-alt="Selecting fill blank form option"}
+
+![Select blank form to fill](images/odk_collect_19.png){#fig-odk-collect-select-fill-blank fig-alt="Select blank form to fill"}
+
+ODK Collect filling selected blank form
+
+:::
